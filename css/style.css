@@ -1,0 +1,38 @@
+body {
+  background-color: #000000;
+  text-align: center;
+  font-family: Verdana;
+}
+
+h2 {
+  color: #ffffff;
+}
+
+.first-head {
+  font-weight: normal;
+  font-size: 50px;
+}
+
+.second-head {
+  font-weight: 300;
+  font-size: 42px;
+}
+
+a {
+  color: aquamarine;
+  font-size: 16px;
+  text-align: center;
+}
+
+p {
+  color: gray;
+  font-size: 21px;
+}
+
+.icon {
+  padding-top: 30px;
+}
+
+footer {
+  text-align: right;
+}
